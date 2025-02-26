@@ -1,0 +1,37 @@
+src/
+  ├── components/
+  │   ├── layout/
+  │   │   ├── Header.tsx
+  │   │   ├── Navbar.tsx
+  │   │   └── Footer.tsx
+  │   ├── common/
+  │   │   ├── Logo.tsx
+  │   │   ├── SearchBar.tsx
+  │   │   └── Button.tsx
+  │   └── product/
+  │       ├── ProductCard.tsx
+  │       └── ProductList.tsx
+  ├── pages/
+  │   └── Home.tsx
+  └── styles/
+      └── globals.css 
+
+public/
+  ├── images/
+  │   ├── carousel/
+  │   │   ├── prime-day.jpg
+  │   │   ├── gaming.jpg
+  │   │   ├── kindle.jpg
+  │   │   ├── fashion.jpg
+  │   │   └── electronics.jpg
+  │   └── products/
+  │       ├── airpods.jpg
+  │       ├── switch.jpg
+  │       ├── chair.jpg
+  │       ├── protein.jpg
+  │       ├── kindle.jpg
+  │       ├── echo.jpg
+  │       ├── earphones.jpg
+  │       ├── battery.jpg
+  │       ├── tv.jpg
+  │       └── robot.jpg 
